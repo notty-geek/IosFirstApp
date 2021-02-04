@@ -1,58 +1,17 @@
-# IosFirstApp
+# Our objective
 
-# Prerequisites:
+In this tutorial, I will be showing you how to create your very own “Hello, World!” application with Swift. It’s super simple and also can be kinda fun for those of you new to iOS programming.
 
-You will need to have Git installed. The Mac instructions are HERE (just follow them, contact me if you have any issues)
+You’ll learn how to create a project in Xcode and create an application that shows a “Hello World” greeting. When a user taps a button, the app will show a message. We will define a function and the function will be invoked when a button is clicked.
 
-## Installing Git on a Mac
-Open a terminal window.
+# Coding environment
 
-# Step 1 – Install Homebrew
-Homebrew […] simplifies the installation of software on the Mac OS X operating system.
+If you want to develop and make iOS apps, you will need to download Xcode 10. Xcode is the IDE created by Apple that includes the tools, interface builder, editor, simulator, and test driven development we need to create our application in Swift. It’s great, powerful, minimalistic, and best part is we don’t really need anything else.
 
-– Homebrew – Wikipedia
+You do, however, you will need a Mac or computer running OS X to download the IDE. I would advise making sure you have enough space on your hardrive, as the only bummer is that it weighs in at a hefty 6 GB.
+If you haven’t already, feel free to download it on iTunes or here on the developer site to follow along.
 
-Copy & paste the following into the terminal window and hit Return.
-
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-brew doctor
-You will be offered to install the Command Line Developer Tools from Apple. Confirm by clicking Install. After the installation finished, continue installing Homebrew by hitting Return again.
-
-Step 2 – Install Git
-Copy & paste the following into the terminal window and hit Return.
-
-brew install git
-You can use Git now.
+# Let’s get started!
 
 
-
-# Terminology
-
-
-Git: Git is a distributed version-control system for tracking changes in source code during software development
-GitHub: GitHub is a core hosting platform for GitHub repositories
-Repository: A repository is a file location where you store all of the related files for the current project. A local repository resides on your system, a remote repository (generally) lies on a remote machine. A code project can consist of multiple repositories across multiple accounts, but commonly is a repository from a single account. Repositories (also known as Repos) are recommended to be kept under 1GB.
-Terminal: an interface that allows you to access the command line
-
-
-On the right there is the Clone or download button. Clicking on the button gives two options — either we Open in Desktop or we Download ZIP.
-
-
-# Paste Image
-
-
-This simplest process is to Download ZIP.
-
-Downloading a project from Xcode: Method 1
-
-If you are using the Chrome Webbrowser it will show you at the bottom of the screen that you have downloaded the files.
-
-
-
-Open brings you to the folder, which you can then double-click on to open.
-This reveals a folder with another folder — this is the one with the project that we need to open:
-
-
-
-
-
+Now that you have Xcode downloaded, let’s go ahead and open it up.
