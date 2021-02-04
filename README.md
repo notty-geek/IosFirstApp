@@ -15,3 +15,7 @@ If you haven’t already, feel free to download it on iTunes or here on the deve
 
 
 Now that you have Xcode downloaded, let’s go ahead and open it up.
+
+
+
+https://github.com/notty-geek/IosFirstApp/issues/1#issue-801281600
