@@ -61,7 +61,7 @@ Go ahead and add a “button” and a “label” to the canvas. Place and drag 
 ![1_JKPySBUnp7Ph_85dbICq7A](https://user-images.githubusercontent.com/14343387/106994111-264ee680-67a2-11eb-949d-4c1ffb919f3b.png)
 
 
-Adding Constraints
+## Adding Constraints
 We need to add constraints so that it stays in place when rotating the device or using on different screen sizes. With the element selected, you will want to click on the icon below to add constraints.
 
 ![1_pmkOF17VOWpY7HZ2qd4ygQ](https://user-images.githubusercontent.com/14343387/106994115-2818aa00-67a2-11eb-96e8-89eae644ed42.png)
@@ -72,6 +72,9 @@ We need to add constraints so that it stays in place when rotating the device or
 
 Now that we completed our UI, let’s write our code to establish a connection to the UI.
 To view both files side by side, click the Assistant Editor to open the ViewController.swift file in the project navigator.
+
+
+![1_JidIaUbBnRGuaEpaugucSg](https://user-images.githubusercontent.com/14343387/106994120-2a7b0400-67a2-11eb-8354-fbd0b1cfb38f.png)
 
 
 
@@ -111,4 +114,6 @@ One of the best things about XCode and iOS development in general is seeing your
 
 
 
-![1_JidIaUbBnRGuaEpaugucSg](https://user-images.githubusercontent.com/14343387/106994120-2a7b0400-67a2-11eb-8354-fbd0b1cfb38f.png)
+
+
+
