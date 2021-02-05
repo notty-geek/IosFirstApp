@@ -93,7 +93,9 @@ In the Storyboard.swift file, click on the “Hello World!” label. While click
 It will look something like this:
 
 
-Completing the code
+## Completing the code
+
+
 One last step before testing the app is to place the following code in the toggleGreeting(_ sender: Any) method you’ve just added, which will hide the “Hello World!” greeting when untapped:helloLabel.isHidden = !helloLabel.isHidden .
 You’re finished code should look like this:
 
@@ -119,17 +121,20 @@ class ViewController: UIViewController {
 ```
 
 
-The iOS simulator… Let’s test this bad boy out!
+## The iOS simulator… Let’s test this !!
+
+
 One of the best things about XCode and iOS development in general is seeing your creation come to life instantly via the simulator. You can even plug your iPhone in and test it on multiple devices. Once loaded, press the button and you will see “Hello World!” Sweet!
 
 
 
 ![1_HiFsjbXwn34-hMIrI9lOyg (1)](https://user-images.githubusercontent.com/14343387/107033393-3e8f2780-67db-11eb-8462-d4949e8212df.gif)
 
-In the upper left corner of the Toolbar, select the “Play” button. This enables Xcode to compile and build the app with the iOS similator launches.
-So there you have it! Our first iOS app ~*
 
-Now that you have gotten your feet wet in iOS development, I hope you use this as a starting point to try out new things in programming and development in general. Explore your options — there’s so many! Go on with your badass confident coder self and dive deeper and start creating!
+
+### In the upper left corner of the Toolbar, select the “Play” button. This enables Xcode to compile and build the app with the iOS similator launches. So there you have it! Our first iOS app ~*
+
+#### Now that you have gotten your feet wet in iOS development, I hope you use this as a starting point to try out new things in programming and development in general. Explore your options — there’s so many! Go on with your badass confident coder self and dive deeper and start creating!
 
 
 
