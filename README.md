@@ -1,16 +1,17 @@
 # Our objective
 
-In this tutorial, I will be showing you how to create your very own “Hello, World!” application with Swift. It’s super simple and also can be kinda fun for those of you new to iOS programming.
+In this tutorial, We will be showing you how to create your very own “Hello, World!” application with Swift. It’s super simple and also can be kinda fun for those of you new to iOS programming.
 
 You’ll learn how to create a project in Xcode and create an application that shows a “Hello World” greeting. When a user taps a button, the app will show a message. We will define a function and the function will be invoked when a button is clicked.
 
 
 # Contributer
 
-Sahil Girdhar
-Kartik
-Gurwinder
-Krinesh
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/notty-geek"><img src="https://avatars.githubusercontent.com/u/14343387?s=460&u=9cf149ca193914916b79e3b1efe8964f94dfeccf&v=4" width="100px;" alt=""/><br /><sub><b>Sahil Girdhar</b></sub></a><br /><a href="https://github.com/notty-geek" title="UserName">💬</a><a href="https://github.com/notty-geek/IosFirstApp/edit/main/README.md" title="Reviewed Pull Requests">👀</a> </td></tr></table>
+
 
 
 # Coding environment
