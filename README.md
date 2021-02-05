@@ -10,7 +10,11 @@ You’ll learn how to create a project in Xcode and create an application that s
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/notty-geek"><img src="https://avatars.githubusercontent.com/u/14343387?s=460&u=9cf149ca193914916b79e3b1efe8964f94dfeccf&v=4" width="100px;" alt=""/><br /><sub><b>Sahil Girdhar</b></sub></a><br /><a href="https://github.com/notty-geek" title="UserName">💬</a><a href="https://github.com/notty-geek/IosFirstApp/edit/main/README.md" title="Reviewed Pull Requests">👀</a> </td></tr></table>
+    <td align="center"><a href="https://github.com/notty-geek"><img src="https://avatars.githubusercontent.com/u/14343387?s=460&u=9cf149ca193914916b79e3b1efe8964f94dfeccf&v=4" width="100px;" alt=""/><br /><sub><b>Sahil Girdhar</b></sub></a><br /><a href="https://github.com/notty-geek" title="UserName">💬</a><a href="https://github.com/notty-geek/IosFirstApp/edit/main/README.md" title="Reviewed Pull Requests">👀</a> </td>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/Z3N00"><img src="https://avatars.githubusercontent.com/u/31339403?s=60&v=4 width="100px;" alt=""/><br /><sub><b>Kartik Gupta</b></sub></a><br /><a href="https://github.com/Z3N00" title="UserName">💬</a><a href="https://github.com/Z3N00/IosFirstApp/edit/main/README.md" title="Reviewed Pull Requests">👀</a> </td></tr>
+</table>
 
 
 
