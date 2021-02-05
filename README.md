@@ -4,6 +4,15 @@ In this tutorial, I will be showing you how to create your very own “Hello, Wo
 
 You’ll learn how to create a project in Xcode and create an application that shows a “Hello World” greeting. When a user taps a button, the app will show a message. We will define a function and the function will be invoked when a button is clicked.
 
+
+# Contributer
+
+Sahil Girdhar
+Kartik
+Gurwinder
+Krinesh
+
+
 # Coding environment
 
 If you want to develop and make iOS apps, you will need to download Xcode 10. Xcode is the IDE created by Apple that includes the tools, interface builder, editor, simulator, and test driven development we need to create our application in Swift. It’s great, powerful, minimalistic, and best part is we don’t really need anything else.
@@ -114,6 +123,12 @@ One of the best things about XCode and iOS development in general is seeing your
 
 
 
+![1_HiFsjbXwn34-hMIrI9lOyg (1)](https://user-images.githubusercontent.com/14343387/107033393-3e8f2780-67db-11eb-8462-d4949e8212df.gif)
+
+In the upper left corner of the Toolbar, select the “Play” button. This enables Xcode to compile and build the app with the iOS similator launches.
+So there you have it! Our first iOS app ~*
+
+Now that you have gotten your feet wet in iOS development, I hope you use this as a starting point to try out new things in programming and development in general. Explore your options — there’s so many! Go on with your badass confident coder self and dive deeper and start creating!
 
 
 
