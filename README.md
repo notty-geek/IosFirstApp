@@ -18,4 +18,4 @@ Now that you have Xcode downloaded, let’s go ahead and open it up.
 
 
 
-https://github.com/notty-geek/IosFirstApp/issues/1#issue-801281600
+![xcode Install](https://user-images.githubusercontent.com/14343387/106898596-67031d00-671a-11eb-8170-44267c224a93.png)
