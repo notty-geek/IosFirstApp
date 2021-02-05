@@ -134,7 +134,11 @@ One of the best things about XCode and iOS development in general is seeing your
 
 ### In the upper left corner of the Toolbar, select the “Play” button. This enables Xcode to compile and build the app with the iOS similator launches. So there you have it! Our first iOS app ~*
 
-#### Now that you have gotten your feet wet in iOS development, I hope you use this as a starting point to try out new things in programming and development in general. Explore your options — there’s so many! Go on with your badass confident coder self and dive deeper and start creating!
+#### Now that you have gotten your feet wet in iOS development.
+
+#### We hope you use this as a starting point to try out new things in programming and development in general. 
+
+#### Explore your options — there’s so many! Go on with your badass confident coder self and dive deeper and start creating!
 
 
 
